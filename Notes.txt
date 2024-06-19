@@ -1,0 +1,8 @@
+Academic-Success-Predictor (Student Performance Predictor)
+
+Day 1:
+Agenda
+1. Setup the github repository
+2. Create a new environment
+3. setup.py
+4. requirements.txt
