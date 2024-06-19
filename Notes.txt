@@ -1,8 +1,23 @@
 Academic-Success-Predictor (Student Performance Predictor)
-
-Day 1:
+-----------------------------------------------------------------------------------------------
+Session 1:
 Agenda
 1. Setup the github repository
 2. Create a new environment
 3. setup.py
 4. requirements.txt
+
+steps:
+1. Create a new environment in project directory
+conda create -p asp-env  python==3.8 -y
+asp-env is created
+
+2. Create a setup.py
+setup.py will be responsible for creating application as package
+
+3. Create a requirements.txt
+
+4. Created src folder and build package
+
+Things to be noted:
+"-e ." is added to requirements.txt to run setup.py, that will build the packages
