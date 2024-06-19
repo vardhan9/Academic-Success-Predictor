@@ -21,3 +21,11 @@ setup.py will be responsible for creating application as package
 
 Things to be noted:
 "-e ." is added to requirements.txt to run setup.py, that will build the packages
+--------------------------------------------------------------------------------------------------------------------------------
+Session 2:
+
+1. Created Exception handling
+2. Created logging
+3. Created utils
+
+---------------------------------------------------------------------------------------------------------------------------------
