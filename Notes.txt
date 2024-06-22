@@ -39,4 +39,8 @@ Session 3:
 Session 4:
 1.Data ingestion
 
+---------------------------------------------------------------------------------------------------------------------------------
+Session 5:
+1.Data Transformation : Data cleaning, Feature Engineering and transforming data
+
 
