@@ -32,4 +32,11 @@ Session 2:
 Session 3:
 1. Project description: Student performance Predictor, In the data there are numerical values, categorical values, nan values.
 2. implementing Feature Engineering
-3.
+3. EDA
+4. Model training in jupyter notebook
+
+---------------------------------------------------------------------------------------------------------------------------------
+Session 4:
+1.Data ingestion
+
+
