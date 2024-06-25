@@ -47,3 +47,7 @@ Session 5:
 Session : 6
 1. Model training and Model evaluation 
 
+---------------------------------------------------------------------------------------------------------------------------------
+Session : 7
+1. Hyperparameter tuning
+
