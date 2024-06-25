@@ -51,3 +51,6 @@ Session : 6
 Session : 7
 1. Hyperparameter tuning
 
+---------------------------------------------------------------------------------------------------------------------------------
+Session : 8
+1. Create Prediction Pipeline Using Flask Web APP
