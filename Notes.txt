@@ -61,3 +61,16 @@ Session : 9
 Only CD (Continous Delivery) is implemented
 Able to access instance with url from mobile and computer.
 Maths score prediction working OK.
+encountered issues as AWS UI is updated and sloved with
+https://www.youtube.com/watch?v=pbUFV27Py8E
+https://www.youtube.com/watch?v=2BoVhej0QVI
+
+local-->github-->AWS beanstalk. 
+created connection to github from AWS beanstalk thorough AWS codepipeline.
+
+Tested: made small change in local, pushed to github and in codepipeline "Release" button is active,
+to deploy the updated code with changes.
+
+Important: At this point, Only predictions are made in AWS, NO MODEL TRAINING is done.
+Model is trained on local and deployed on AWS.
+
