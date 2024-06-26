@@ -58,3 +58,6 @@ Session : 8
 ---------------------------------------------------------------------------------------------------------------------------------
 Session : 9
 1. Deployment in AWS beanstalk using CICD pipelines
+Only CD (Continous Delivery) is implemented
+Able to access instance with url from mobile and computer.
+Maths score prediction working OK.
