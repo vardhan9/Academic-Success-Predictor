@@ -74,3 +74,7 @@ to deploy the updated code with changes.
 Important: At this point, Only predictions are made in AWS, NO MODEL TRAINING is done.
 Model is trained on local and deployed on AWS.
 
+--------------------------------------------------------------------------------------------------------------------------------
+Session: 10
+
+
