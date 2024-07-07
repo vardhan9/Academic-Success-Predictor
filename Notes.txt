@@ -76,4 +76,7 @@ Model is trained on local and deployed on AWS.
 
 --------------------------------------------------------------------------------------------------------------------------------
 Session: 10
-CICD AWS ECR EC2 Deployment try 7
+CICD AWS ECR EC2 Deployment 
+
+Completed End to End implementation in AWS 
+Tested - Worked - OK
